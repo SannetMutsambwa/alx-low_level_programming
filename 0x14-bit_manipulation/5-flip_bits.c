@@ -17,3 +17,5 @@ current = exclusive >> a;
 if (current & 1)
 countbit++;
 }
+return (countbit);
+}
